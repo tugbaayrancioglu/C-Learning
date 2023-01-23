@@ -1,7 +1,5 @@
 !README
 
-cat 3_const.cpp - kodu gösterir
-
 create a new repository on the command line
 
 echo "# C-Learning" >> README.md
