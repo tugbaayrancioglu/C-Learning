@@ -6,7 +6,7 @@ int main()
 
     //Because of while it asks every time but if we write "if" instead of "while", it asks just one time.
 
-    while(1==1) // while(name.empty()) 
+    while(name.empty()) // 1 == 1 --> infinite
     {
         std::cout << "Enter your name: ";
         std::getline(std::cin, name);
